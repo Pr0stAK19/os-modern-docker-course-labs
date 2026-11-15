@@ -1,17 +1,23 @@
 ЛР Redis Rocket Counter. От docker run к docker compose и масштабированию
+
 Ручной запуск редиса:
 ![lab3/Photos3/Pasted image 20261115151912.png](Photos3/Pasted%20image%2020261115151912.png)
 
 Проверим, что она запущен и работает:
 ![Pasted image 20261115152025.png](Photos3/Pasted%20image%2020261115152025.png)
+
 Запустим приложение и свяжем его с контейнером с редисом:
 ![Pasted image 20261115152226.png](Photos3/Pasted%20image%2020261115152226.png)
+
 Видим, что контейнер слушает 0.0.0.0:8085->5000/tcp:
 [[Pasted image 20261115152231.png](Photos3/Pasted%20image%2020261115152231.png)
+
 Перешёл в GitBash
 ![[Pasted image 20261115152238.png]]
+
 Переходим на [http://localhost:8085/](http://localhost:8085/) и запускаем ракеты))
 ![[Pasted image 20261115152244.png]]
+
 ![[Pasted image 20261115152307.png]]![[Pasted image 20261115152310.png]]![[Pasted image 20261115152314.png]]![[Pasted image 20261115152318.png]]
 P.S Собрал все виды)))
 
