@@ -1,6 +1,6 @@
 ЛР Redis Rocket Counter. От docker run к docker compose и масштабированию
 Ручной запуск редиса:
-![Pasted image 20261115151912](Photos3/Pasted%image%20261115151912.png)
+![Pasted image 20261115151912](lab3/Photos3/Pasted%20image%20261115151912.png)
 
 Проверим, что она запущен и работает:
 ![Pasted image 20261115152025.png](Photos/Pasted%20image%20261115152025.png)
